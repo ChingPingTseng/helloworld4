@@ -19,7 +19,7 @@
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qw9-Di-oqO">
                                 <rect key="frame" x="164" y="28" width="30" height="30"/>
-                                <state key="normal" title="b1"/>
+                                <state key="normal" title="b3"/>
                             </button>
                             <slider opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.5" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="rBM-F8-Z1C">
                                 <rect key="frame" x="288" y="58" width="118" height="31"/>
